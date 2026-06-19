@@ -6,7 +6,7 @@ Open Source Developer
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [Portfolio Website](http://portfolio.akanni.dev)
-*   ✉️  You can contact me at [alhassan@akanni.dev](mailto:alhassanfijabi@proton.me)
+*   ✉️  You can contact me at [alhassanfijabi@proton.me](mailto:alhassanfijabi@proton.me)
 *   🧠  I'm currently learning Python
 *   👥  I'm looking to collaborate on Websites,Webhosting,consulting.
 *   💬  I use arch btw
